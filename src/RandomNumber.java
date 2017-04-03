@@ -9,7 +9,7 @@ public class RandomNumber {
 
 	public static void main(String[] args) {
 
-		RandomNumber1 myRandom = new RandomNumber1();
+		RandomNumber1 myRandom = new RandomNumber1();  // What is its purpose and what do you do with myRandom, Luis?
 		//Declares variables
 		int high;
 		int com = 0;
